@@ -31,8 +31,8 @@ We invite you to improve our app and reuse our services. Almost all of our servi
 If you would like to understand how the app works in general, it is recommended to check out the architecture description below and the [Flutter app repository](https://github.com/priobike/priobike-flutter-app) first. This is also the best way to start when you want to fix a bug in the app or contribute a feature. 
 
 The development of this project came to an end in 2024.
-So, we won't be able to reply to issues you may open here on GitHub.
-If you have questions, you can contact the main developers via LinkedIn:
+So, there is a high chance nobody will reply to issues you may open here on GitHub.
+If you want to discuss something or have questions, feel free to connect with us on LinkedIn. During the project we were the main developers of the app and the services:
  - [Philipp Matthes](https://de.linkedin.com/in/pmatthes)
  - [Daniel Jeschor](https://de.linkedin.com/in/daniel-jeschor)
  - [Paul Pickhardt](https://de.linkedin.com/in/paul-pickhardt-72812521a)

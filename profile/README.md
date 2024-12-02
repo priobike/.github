@@ -22,7 +22,7 @@ P. Matthes and T. Springer, “Matching Traffic Lights to Routes for Real-World 
 
 P. Matthes, D. Jeschor, and T. Springer, “GeoAI-Powered Lane Matching for Bike Routes in GLOSA Apps,” in The 31st ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL ’23), ACM, 2023, pp. 1–4. DOI: https://doi.org/10.1145/3589132.3625583
 
-P. Matthes, T. Springer, and D. Jeschor, “Accurate Bike Routing for Lane Prediction in GLOSA Apps via Infrastructure Reference Models,” in 2023 IEEE In- ternational Conference on Intelligent Transportation Systems (ITSC), IEEE, 2023, pp. 1–6. DOI: https://doi.org/10.1109/ITSC57777.2023.10422472
+P. Matthes, T. Springer, and D. Jeschor, “Accurate Bike Routing for Lane Prediction in GLOSA Apps via Infrastructure Reference Models,” in 2023 IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE, 2023, pp. 1–6. DOI: https://doi.org/10.1109/ITSC57777.2023.10422472
 
 ## Contributing
 
